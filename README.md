@@ -1,7 +1,5 @@
 # ESP32-S3 AIoT
 
-四非自动化嵌入式探索之路
-
 基于 ESP32-S3 和 ESP-IDF 的环境监测与 AI 语音交互项目，包含 LCD 触摸界面、传感器采集、OneNET MQTT、BLE 和小智 AI 接入。
 
 ## 项目内容
